@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Special",
+        "identifier": "P006B0",
+        "tradeable": true,
+        "name": "Blacksmith Special"
+    },
+    {
+        "type": "Special",
+        "identifier": "P001D0",
+        "tradeable": true,
+        "name": "Dropped Special"
+    },
+    {
+        "type": "Special",
+        "identifier": "P005L0",
+        "tradeable": false,
+        "name": "Lottery Special"
+    },
+    {
+        "type": "Special",
+        "identifier": "P004P0",
+        "tradeable": true,
+        "name": "Producted Special"
+    },
+    {
+        "type": "Special",
+        "identifier": "P008R0",
+        "tradeable": true,
+        "name": "Reward Special"
+    },
+    {
+        "type": "Special",
+        "identifier": "P007T0",
+        "tradeable": false,
+        "name": "Traded Special"
+    },
+    {
+        "type": "Special",
+        "identifier": "P003D0",
+        "tradeable": true,
+        "name": "Unique Special"
+    }
+]

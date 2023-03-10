@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Claw",
+        "identifier": "C006B0",
+        "tradeable": true,
+        "name": "Blacksmith Claw",
+        "attack": 240,
+        "defense": 0
+    },
+    {
+        "type": "Claw",
+        "identifier": "C001D0",
+        "tradeable": true,
+        "name": "Dropped Claw",
+        "upgrade": "C001D1",
+        "attack": 50,
+        "defense": 0
+    },
+    {
+        "type": "Claw",
+        "identifier": "C001D1",
+        "tradeable": true,
+        "name": "Dropped Claw II",
+        "downgrade": "C001D0",
+        "upgrade": "C001D2",
+        "attack": 100,
+        "defense": 0
+    },
+    {
+        "type": "Claw",
+        "identifier": "C001D2",
+        "tradeable": true,
+        "name": "Dropped Claw III",
+        "downgrade": "C001D1",
+        "upgrade": "C001D3",
+        "attack": 200,
+        "defense": 0
+    },
+    {
+        "type": "Claw",
+        "identifier": "C001D3",
+        "tradeable": true,
+        "name": "Dropped Claw IV",
+        "downgrade": "C001D2",
+        "attack": 360,
+        "defense": 0
+    },
+    {
+        "type": "Claw",
+        "identifier": "C005L0",
+        "tradeable": false,
+        "name": "Lottery Claw",
+        "attack": 155,
+        "defense": 0
+    },
+    {
+        "type": "Special Claw",
+        "identifier": "C004P0",
+        "tradeable": true,
+        "name": "Producted Claw",
+        "attack": 75,
+        "defense": 0
+    },
+    {
+        "type": "Special Claw",
+        "identifier": "C008R0",
+        "tradeable": true,
+        "name": "Reward Claw",
+        "attack": 1,
+        "defense": 0
+    },
+    {
+        "type": "Special Claw",
+        "identifier": "C002S0",
+        "tradeable": false,
+        "name": "Strengthened Claw",
+        "upgrade": "C002S1",
+        "attack": 125,
+        "defense": 5
+    },
+    {
+        "type": "Special Claw",
+        "identifier": "C002S1",
+        "tradeable": false,
+        "name": "Strengthened Claw",
+        "downgrade": "C002S0",
+        "upgrade": "C002S2",
+        "strengthened": 1,
+        "attack": 250,
+        "defense": 5
+    },
+    {
+        "type": "Special Claw",
+        "identifier": "C002S2",
+        "tradeable": false,
+        "name": "Strengthened Claw",
+        "downgrade": "C002S1",
+        "strengthened": 2,
+        "attack": 320,
+        "defense": 10
+    },
+    {
+        "type": "Claw",
+        "identifier": "C007T0",
+        "tradeable": false,
+        "name": "Traded Claw",
+        "attack": 265,
+        "defense": 5
+    },
+    {
+        "type": "Claw",
+        "identifier": "C003D0",
+        "tradeable": true,
+        "name": "Unique Claw",
+        "attack": 100,
+        "defense": 0
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Additional",
+        "identifier": "D006B0",
+        "tradeable": true,
+        "name": "Blacksmith Additional",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Shield",
+        "identifier": "D001D0",
+        "tradeable": true,
+        "name": "Dropped Additional",
+        "upgrade": "D001D1",
+        "attack": 5,
+        "defense": 10
+    },
+    {
+        "type": "Shield",
+        "identifier": "D001D1",
+        "tradeable": true,
+        "name": "Dropped Additional II",
+        "downgrade": "D001D0",
+        "upgrade": "D001D2",
+        "attack": 5,
+        "defense": 15
+    },
+    {
+        "type": "Shield",
+        "identifier": "D001D2",
+        "tradeable": true,
+        "name": "Dropped Additional III",
+        "downgrade": "D001D1",
+        "upgrade": "D001D3",
+        "attack": 10,
+        "defense": 20
+    },
+    {
+        "type": "Shield",
+        "identifier": "D001D3",
+        "tradeable": true,
+        "name": "Dropped Additional IV",
+        "downgrade": "D001D2",
+        "attack": 20,
+        "defense": 25
+    },
+    {
+        "type": "Additional",
+        "identifier": "D005L0",
+        "tradeable": false,
+        "name": "Lottery Additional",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Additional",
+        "identifier": "D004P0",
+        "tradeable": true,
+        "name": "Producted Additional",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Additional",
+        "identifier": "D008R0",
+        "tradeable": true,
+        "name": "Reward Additional",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Additional",
+        "identifier": "D002S0",
+        "tradeable": false,
+        "name": "Strengthened Additional",
+        "upgrade": "D002S1",
+        "attack": 0,
+        "defense": 15
+    },
+    {
+        "type": "Additional",
+        "identifier": "D002S1",
+        "tradeable": false,
+        "name": "Strengthened Additional",
+        "downgrade": "D002S0",
+        "upgrade": "D002S2",
+        "strengthened": 1,
+        "attack": 0,
+        "defense": 25
+    },
+    {
+        "type": "Additional",
+        "identifier": "D002S2",
+        "tradeable": false,
+        "name": "Strengthened Additional",
+        "downgrade": "D002S1",
+        "strengthened": 2,
+        "attack": 0,
+        "defense": 45
+    },
+    {
+        "type": "Additional",
+        "identifier": "D007T0",
+        "tradeable": false,
+        "name": "Traded Additional",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Shield",
+        "identifier": "D003D0",
+        "tradeable": true,
+        "name": "Unique Additional",
+        "attack": 0,
+        "defense": 0
+    }
+]

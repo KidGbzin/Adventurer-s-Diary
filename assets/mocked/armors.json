@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Armor",
+        "identifier": "A006B0",
+        "tradeable": true,
+        "name": "Blacksmith Armor",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Armor",
+        "identifier": "A001D0",
+        "tradeable": true,
+        "name": "Dropped Armor",
+        "upgrade": "A001D1",
+        "attack": 5,
+        "defense": 10
+    },
+    {
+        "type": "Armor",
+        "identifier": "A001D1",
+        "tradeable": true,
+        "name": "Dropped Armor II",
+        "downgrade": "A001D0",
+        "upgrade": "A001D2",
+        "attack": 5,
+        "defense": 15
+    },
+    {
+        "type": "Armor",
+        "identifier": "A001D2",
+        "tradeable": true,
+        "name": "Dropped Armor III",
+        "downgrade": "A001D1",
+        "upgrade": "A001D3",
+        "attack": 10,
+        "defense": 20
+    },
+    {
+        "type": "Armor",
+        "identifier": "A001D3",
+        "tradeable": true,
+        "name": "Dropped Armor IV",
+        "downgrade": "A001D2",
+        "attack": 20,
+        "defense": 25
+    },
+    {
+        "type": "Armor",
+        "identifier": "A005L0",
+        "tradeable": false,
+        "name": "Lottery Armor",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Armor",
+        "identifier": "A004P0",
+        "tradeable": true,
+        "name": "Producted Armor",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Armor",
+        "identifier": "A008R0",
+        "tradeable": true,
+        "name": "Reward Armor",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Armor",
+        "identifier": "A002S0",
+        "tradeable": false,
+        "name": "Strengthened Armor",
+        "upgrade": "A002S1",
+        "attack": 0,
+        "defense": 15
+    },
+    {
+        "type": "Armor",
+        "identifier": "A002S1",
+        "tradeable": false,
+        "name": "Strengthened Armor",
+        "downgrade": "A002S0",
+        "upgrade": "A002S2",
+        "strengthened": 1,
+        "attack": 0,
+        "defense": 25
+    },
+    {
+        "type": "Armor",
+        "identifier": "A002S2",
+        "tradeable": false,
+        "name": "Strengthened Armor",
+        "downgrade": "A002S1",
+        "strengthened": 2,
+        "attack": 0,
+        "defense": 45
+    },
+    {
+        "type": "Armor",
+        "identifier": "A007T0",
+        "tradeable": false,
+        "name": "Traded Armor",
+        "attack": 0,
+        "defense": 5
+    },
+    {
+        "type": "Armor",
+        "identifier": "A003D0",
+        "tradeable": true,
+        "name": "Unique Armor",
+        "attack": 0,
+        "defense": 0
+    }
+]
