@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Magic Katana",
+        "identifier": "S006B0",
+        "tradeable": true,
+        "name": "Blacksmith Sword",
+        "attack": 240,
+        "defense": 0
+    },
+    {
+        "type": "Sword",
+        "identifier": "S001D0",
+        "tradeable": true,
+        "name": "Dropped Sword",
+        "upgrade": "S001D1",
+        "attack": 50,
+        "defense": 0
+    },
+    {
+        "type": "Sword",
+        "identifier": "S001D1",
+        "tradeable": true,
+        "name": "Dropped Sword II",
+        "downgrade": "S001D0",
+        "upgrade": "S001D2",
+        "attack": 100,
+        "defense": 0
+    },
+    {
+        "type": "Sword",
+        "identifier": "S001D2",
+        "tradeable": true,
+        "name": "Dropped Sword III",
+        "downgrade": "S001D1",
+        "upgrade": "S001D3",
+        "attack": 200,
+        "defense": 0
+    },
+    {
+        "type": "Sword",
+        "identifier": "S001D3",
+        "tradeable": true,
+        "name": "Dropped Sword IV",
+        "downgrade": "S001D2",
+        "attack": 360,
+        "defense": 0
+    },
+    {
+        "type": "Magic Sword",
+        "identifier": "S005L0",
+        "tradeable": false,
+        "name": "Lottery Sword",
+        "attack": 155,
+        "defense": 0
+    },
+    {
+        "type": "Special Sword",
+        "identifier": "S004P0",
+        "tradeable": true,
+        "name": "Producted Sword",
+        "attack": 75,
+        "defense": 0
+    },
+    {
+        "type": "Sword",
+        "identifier": "S008R0",
+        "tradeable": true,
+        "name": "Reward Sword",
+        "attack": 1,
+        "defense": 0
+    },
+    {
+        "type": "Katana",
+        "identifier": "S002S0",
+        "tradeable": false,
+        "name": "Strengthened Sword",
+        "upgrade": "S002S1",
+        "attack": 125,
+        "defense": 5
+    },
+    {
+        "type": "Katana",
+        "identifier": "S002S1",
+        "tradeable": false,
+        "name": "Strengthened Sword",
+        "downgrade": "S002S0",
+        "upgrade": "S002S2",
+        "strengthened": 1,
+        "attack": 250,
+        "defense": 5
+    },
+    {
+        "type": "Katana",
+        "identifier": "S002S2",
+        "tradeable": false,
+        "name": "Strengthened Sword",
+        "downgrade": "S002S1",
+        "strengthened": 2,
+        "attack": 320,
+        "defense": 10
+    },
+    {
+        "type": "Sword",
+        "identifier": "S007T0",
+        "tradeable": false,
+        "name": "Traded Sword",
+        "attack": 265,
+        "defense": 5
+    },
+    {
+        "type": "Special Katana",
+        "identifier": "S003D0",
+        "tradeable": true,
+        "name": "Unique Sword",
+        "attack": 100,
+        "defense": 0
+    }
+]

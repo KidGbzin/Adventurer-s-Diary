@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Cane",
+        "identifier": "R006B0",
+        "tradeable": true,
+        "name": "Blacksmith Cane",
+        "attack": 240,
+        "defense": 0
+    },
+    {
+        "type": "Cane",
+        "identifier": "R001D0",
+        "tradeable": true,
+        "name": "Dropped Cane",
+        "upgrade": "R001D1",
+        "attack": 50,
+        "defense": 0
+    },
+    {
+        "type": "Cane",
+        "identifier": "R001D1",
+        "tradeable": true,
+        "name": "Dropped Cane II",
+        "downgrade": "R001D0",
+        "upgrade": "R001D2",
+        "attack": 100,
+        "defense": 0
+    },
+    {
+        "type": "Cane",
+        "identifier": "R001D2",
+        "tradeable": true,
+        "name": "Dropped Cane III",
+        "downgrade": "R001D1",
+        "upgrade": "R001D3",
+        "attack": 200,
+        "defense": 0
+    },
+    {
+        "type": "Cane",
+        "identifier": "R001D3",
+        "tradeable": true,
+        "name": "Dropped Cane IV",
+        "downgrade": "R001D2",
+        "attack": 360,
+        "defense": 0
+    },
+    {
+        "type": "Magic Cane",
+        "identifier": "R005L0",
+        "tradeable": false,
+        "name": "Lottery Cane",
+        "attack": 155,
+        "defense": 0
+    },
+    {
+        "type": "Cane",
+        "identifier": "R004P0",
+        "tradeable": true,
+        "name": "Producted Cane",
+        "attack": 75,
+        "defense": 0
+    },
+    {
+        "type": "Cane",
+        "identifier": "R008R0",
+        "tradeable": true,
+        "name": "Reward Cane",
+        "attack": 1,
+        "defense": 0
+    },
+    {
+        "type": "Magic Cane",
+        "identifier": "R002S0",
+        "tradeable": false,
+        "name": "Strengthened Cane",
+        "upgrade": "R002S1",
+        "attack": 125,
+        "defense": 5
+    },
+    {
+        "type": "Magic Cane",
+        "identifier": "R002S1",
+        "tradeable": false,
+        "name": "Strengthened Cane",
+        "downgrade": "R002S0",
+        "upgrade": "R002S2",
+        "strengthened": 1,
+        "attack": 250,
+        "defense": 5
+    },
+    {
+        "type": "Magic Cane",
+        "identifier": "R002S2",
+        "tradeable": false,
+        "name": "Strengthened Cane",
+        "downgrade": "R002S1",
+        "strengthened": 2,
+        "attack": 320,
+        "defense": 10
+    },
+    {
+        "type": "Cane",
+        "identifier": "R007T0",
+        "tradeable": false,
+        "name": "Traded Cane",
+        "attack": 265,
+        "defense": 5
+    },
+    {
+        "type": "Cane",
+        "identifier": "R003D0",
+        "tradeable": true,
+        "name": "Unique Cane",
+        "attack": 100,
+        "defense": 0
+    }
+]

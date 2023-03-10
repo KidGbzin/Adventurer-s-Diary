@@ -1,0 +1,118 @@
+[
+    {
+        "type": "Throwing",
+        "identifier": "T006B0",
+        "tradeable": true,
+        "name": "Blacksmith Throwing",
+        "attack": 240,
+        "defense": 0
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T001D0",
+        "tradeable": true,
+        "name": "Dropped Throwing",
+        "upgrade": "T001D1",
+        "attack": 50,
+        "defense": 0
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T001D1",
+        "tradeable": true,
+        "name": "Dropped Throwing II",
+        "downgrade": "T001D0",
+        "upgrade": "T001D2",
+        "attack": 100,
+        "defense": 0
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T001D2",
+        "tradeable": true,
+        "name": "Dropped Throwing III",
+        "downgrade": "T001D1",
+        "upgrade": "T001D3",
+        "attack": 200,
+        "defense": 0
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T001D3",
+        "tradeable": true,
+        "name": "Dropped Throwing IV",
+        "downgrade": "T001D2",
+        "attack": 360,
+        "defense": 0
+    },
+    {
+        "type": "Special Throwing",
+        "identifier": "T005L0",
+        "tradeable": false,
+        "name": "Lottery Throwing",
+        "attack": 155,
+        "defense": 0
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T004P0",
+        "tradeable": true,
+        "name": "Producted Throwing",
+        "attack": 75,
+        "defense": 0
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T008R0",
+        "tradeable": true,
+        "name": "Reward Throwing",
+        "attack": 1,
+        "defense": 0
+    },
+    {
+        "type": "Special Throwing",
+        "identifier": "T002S0",
+        "tradeable": false,
+        "name": "Strengthened Throwing",
+        "upgrade": "T002S1",
+        "attack": 125,
+        "defense": 5
+    },
+    {
+        "type": "Special Throwing",
+        "identifier": "T002S1",
+        "tradeable": false,
+        "name": "Strengthened Throwing",
+        "downgrade": "T002S0",
+        "upgrade": "T002S2",
+        "strengthened": 1,
+        "attack": 250,
+        "defense": 5
+    },
+    {
+        "type": "Special Throwing",
+        "identifier": "T002S2",
+        "tradeable": false,
+        "name": "Strengthened Throwing",
+        "downgrade": "T002S1",
+        "strengthened": 2,
+        "attack": 320,
+        "defense": 10
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T007T0",
+        "tradeable": false,
+        "name": "Traded Throwing",
+        "attack": 265,
+        "defense": 5
+    },
+    {
+        "type": "Throwing",
+        "identifier": "T003D0",
+        "tradeable": true,
+        "name": "Unique Throwing",
+        "attack": 100,
+        "defense": 0
+    }
+]
